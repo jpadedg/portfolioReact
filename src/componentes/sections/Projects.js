@@ -4,11 +4,21 @@ import Card from '../elements/Card'
 import ldccpx from '../../image/projects/ldccpx.svg'
 import arquitetura from '../../image/projects/arquitetura.svg'
 import buscador from '../../image/projects/buscador.svg'
+import portfolio from '../../image/projects/portfolio.svg'
 
 function Projects() {
     return(
         <div className={styles.projects} id="Projects">
             <h1>Projetos</h1>
+            <Card 
+            img={portfolio}
+            title="Portfolio utilizando React."
+            tech="HTML, CSS e React."
+            description="Criando uma página de portfolio com skills e projetos realizados."
+            repo="https://github.com/jpadedg/portfolioReact"
+            site="https://portfolio-react-navy-xi.vercel.app"
+                />
+
             <Card 
             img={ldccpx}
             title="landing Page para CCXP."
