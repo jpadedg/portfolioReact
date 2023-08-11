@@ -5,11 +5,34 @@ import ldccpx from '../../image/projects/ldccpx.svg'
 import arquitetura from '../../image/projects/arquitetura.svg'
 import buscador from '../../image/projects/buscador.svg'
 import portfolio from '../../image/projects/portfolio.svg'
+import tarefas from '../../image/projects/tarefas.svg'
+import filmes from '../../image/projects/filmes.svg'
 
 function Projects() {
     return(
         <div className={styles.projects} id="Projects">
             <h1>Projetos</h1>
+            <Card 
+            img={filmes}
+            title="Um Movie List de filmes alimentado por uma API usando React."
+            tech="HTML, SASS, React, React Router e Axios."
+            description="Um site onde aparecem diversos filmes, podendo realizar buscas e ao selecionar um filme 
+                            vai para outra página onde tem informações a mais sobre o filme selecionado. 
+                            O site é alimentado pela API The Movie DB"
+            repo="https://github.com/jpadedg/Movies"
+            site="https://movies-flame.vercel.app"
+                />
+            
+            <Card 
+            img={tarefas}
+            title="Organizador de tarefas usando React."
+            tech="HTML, SASS, React e React Router."
+            description="Um site onde é possivel adicionar novas tarefas e dar um check quando ela for realizada,
+                         podendo ir para outra página onde passa dinamicamente os dados."
+            repo="https://github.com/jpadedg/gerenciadorTarefas"
+            site="https://gerenciador-tarefas-lilac.vercel.app"
+                />
+            
             <Card 
             img={portfolio}
             title="Portfolio utilizando React."
