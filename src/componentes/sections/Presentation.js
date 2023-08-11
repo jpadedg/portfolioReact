@@ -44,13 +44,13 @@ function Presentation(){
                 Sou uma pessoa apaixonada por tecnologia, <br/>
                 gosto de desafios e de resolver problemas. <br/>
                 Me formei em engenharia da computação e estou <br/>
-                fazendo uma formação em Full-Stack na escola DNC <br/>
-                para aprender tecnologias requisitadas no mercado como: <br/>
-                React, Next, Node e bastante javascript!! <br/><br/>
+                fazendo uma formação em Full-Stack <br/>
+                aprendendo tecnologias utilizadas no mercado como: <br/>
+                Javascript, React, Node, SASS e SQL!!  <br/><br/>
                 Estou em busca de oportunidade para por em prática <br/>
                 todo o conhecimento adquirido e me desenvolver profissionalmente. <br/>
             </p>
-            <ButtonA link='https://outlook.live.com/mail/0/' text='Conecte-se comigo!'></ButtonA>
+            <ButtonA link='https://www.linkedin.com/in/joao-pedro-aded-garuba-b4ba01128/' text='Conecte-se comigo!'></ButtonA>
         </div>
     )
 }
