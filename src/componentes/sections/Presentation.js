@@ -50,7 +50,7 @@ function Presentation(){
                 Estou em busca de oportunidade para por em prática <br/>
                 todo o conhecimento adquirido e me desenvolver profissionalmente. <br/>
             </p>
-            <ButtonA link='https://www.linkedin.com/in/joao-pedro-aded-garuba-b4ba01128/' text='Conecte-se comigo!'></ButtonA>
+            <ButtonA link='https://www.linkedin.com/in/joao-pedro-aded-garuba-b4ba01128/' text='Conecte-se comigo!' target="_blank"></ButtonA>
         </div>
     )
 }

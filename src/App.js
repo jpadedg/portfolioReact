@@ -7,6 +7,7 @@ import Footer from './componentes/sections/Footer'
 
 
 function App() {
+  document.title = 'Portfólio - João Pedro Aded Garuba'
   return (
     <div className="App">
       <Navbar/>
