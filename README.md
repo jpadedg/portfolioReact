@@ -12,13 +12,13 @@
 
 :small_blue_diamond: [Description](#description)
 
-:small_blue_diamond: [functionality](#funcionalidades)
+:small_blue_diamond: [Functionality](#functionality)
 
-:small_blue_diamond: [deploy](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Deploy](#deploydash)
 
-:small_blue_diamond: [prerequisites](#pré-requisitos)
+:small_blue_diamond: [Prerequisites](#prerequisites)
 
-:small_blue_diamond: [how to run the application](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [How to run the application](#how-to-run-the-aplication-arrow_forward)
 
 ## Description 
 
@@ -26,15 +26,10 @@
   A personal portfolio using react
 </p>
 
-## Funcionalidades
+## Functionality
 
-:heavy_check_mark: Funcionalidade 1  
+:heavy_check_mark: Portfolio divided into components
 
-:heavy_check_mark: Funcionalidade 2  
-
-:heavy_check_mark: Funcionalidade 3  
-
-:heavy_check_mark: Funcionalidade 4  
 
 ## Deploy:dash:
 
@@ -43,17 +38,15 @@
 
 ![image](https://github.com/jpadedg/portfolioReact/assets/57507707/c87ed51f-5861-4413-9f6b-c4ceac585b2b)
 
-... 
+
+## Prerequisites
+
+:warning: [Node](https://nodejs.org/en/download/)<br>
+:warning: [NPM](https://www.npmjs.com/package/download)<br>
+:warning: [Visual Code Studio](https://code.visualstudio.com/download)<br>
 
 
-## prerequisites
-
-:warning: [Node](https://nodejs.org/en/download/)
-:warning: [NPM](https://www.npmjs.com/package/download)
-:warning: [Visual Code Studio](https://code.visualstudio.com/download)
-
-
-## Como rodar a aplicação :arrow_forward:
+## How to run the aplication :arrow_forward:
 
 In terminal, clone the project: 
 
@@ -63,10 +56,6 @@ git clone https://github.com/jpadedg/portfolioReact.git
 
 ```
 cd portfolioReact
-```
-
-```
-git clone https://github.com/jpadedg/portfolioReact.git
 ```
 
 For open the Visual Code Studio:
@@ -85,13 +74,13 @@ npm i
 npm start
 ```
 
-## Linguagens, dependencias e libs utilizadas :books:
+## languages, dependencies and libs used :books:
 
 - [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
 - [React PDF](https://react-pdf.org/)
 
 
-## Tarefas em aberto
+## Open task
 
 :memo: Include new projects
 
