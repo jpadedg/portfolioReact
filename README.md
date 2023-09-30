@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
   <img src="https://img.shields.io/static/v1?label=Vercel&message=deploy&color=blue&style=for-the-badge&logo=vercel"/>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUED&color=GREEN&style=for-the-badge"/>
 </p>
 
 > Project status: :heavy_check_mark:
