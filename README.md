@@ -1,70 +1,99 @@
-# Getting Started with Create React App
+<h1>Potfólio pessoal</h1> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+  <img src="https://img.shields.io/static/v1?label=Vercel&message=deploy&color=blue&style=for-the-badge&logo=vercel"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
-## Available Scripts
+> Project status: :heavy_check_mark:
 
-In the project directory, you can run:
+### Topics 
 
-### `npm start`
+:small_blue_diamond: [Description](#description)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+:small_blue_diamond: [functionality](#funcionalidades)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+:small_blue_diamond: [deploy](#deploy-da-aplicação-dash)
 
-### `npm test`
+:small_blue_diamond: [prerequisites](#pré-requisitos)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+:small_blue_diamond: [how to run the application](#como-rodar-a-aplicação-arrow_forward)
 
-### `npm run build`
+## Description 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="justify">
+  A personal portfolio using react
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Funcionalidades
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+:heavy_check_mark: Funcionalidade 1  
 
-### `npm run eject`
+:heavy_check_mark: Funcionalidade 2  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+:heavy_check_mark: Funcionalidade 3  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+:heavy_check_mark: Funcionalidade 4  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Deploy:dash:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+> Deploy in Vercel:  [link](https://portfolio-react-enkb.vercel.app)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![image](https://github.com/jpadedg/portfolioReact/assets/57507707/c87ed51f-5861-4413-9f6b-c4ceac585b2b)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+... 
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## prerequisites
 
-### Analyzing the Bundle Size
+:warning: [Node](https://nodejs.org/en/download/)
+:warning: [NPM](https://www.npmjs.com/package/download)
+:warning: [Visual Code Studio](https://code.visualstudio.com/download)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Como rodar a aplicação :arrow_forward:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+In terminal, clone the project: 
 
-### Advanced Configuration
+```
+git clone https://github.com/jpadedg/portfolioReact.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```
+cd portfolioReact
+```
 
-### Deployment
+```
+git clone https://github.com/jpadedg/portfolioReact.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+For open the Visual Code Studio:
 
-### `npm run build` fails to minify
+```
+code .
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+In VS code terminal:
+
+```
+npm i
+```
+
+```
+npm start
+```
+
+## Linguagens, dependencias e libs utilizadas :books:
+
+- [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
+- [React PDF](https://react-pdf.org/)
+
+
+## Tarefas em aberto
+
+:memo: Include new projects
+
+
+Copyright :copyright: 2023 - Portfolio
