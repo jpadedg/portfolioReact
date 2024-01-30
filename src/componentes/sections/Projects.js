@@ -7,11 +7,34 @@ import buscador from '../../image/projects/buscador.svg'
 import portfolio from '../../image/projects/portfolio.svg'
 import tarefas from '../../image/projects/tarefas.svg'
 import filmes from '../../image/projects/filmes.svg'
+import weFashion from '../../image/projects/weFashion.svg'
+import resoluTI from '../../image/projects/resoluTI.svg'
 
 function Projects() {
     return(
         <div className={styles.projects} id="Projects">
             <h1>Projetos</h1>
+            <Card 
+            img={resoluTI}
+            title="Desafio processo seletivo resoluTI."
+            tech="Next, React, React Router, bcryptjs."
+            description="Recebi um protótipo de baixa fidelidade e transformei em 
+                            uma tela de login, tela de cadastro de usuário e um CRUD de Pessoa Física.
+                            Tem criptografia de senha, rota exclusiva para usuário autenticado. 
+                            Dados sendo gravados usando LocalStorage."
+            repo="https://github.com/jpadedg/resoluti_desafio"
+            site="https://resoluti-desafio.vercel.app"
+                />
+            <Card 
+            img={weFashion}
+            title="Um site de identidade visual usando React."
+            tech="SASS, React, React Router."
+            description="Site criado para a We Fashion onde foi feito o protótipo do site,
+                             desenvolvido e 100% responsivo."
+            repo="https://github.com/jpadedg/web-wefashion"
+            site="https://wefashion.vercel.app"
+                />
+
             <Card 
             img={filmes}
             title="Um Movie List de filmes alimentado por uma API usando React."
