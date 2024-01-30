@@ -43,10 +43,10 @@ function Presentation(){
             <p>
                 Sou uma pessoa apaixonada por tecnologia, <br/>
                 gosto de desafios e de resolver problemas. <br/>
-                Me formei em engenharia da computação e estou <br/>
-                fazendo uma formação em Full-Stack <br/>
-                aprendendo tecnologias utilizadas no mercado como: <br/>
-                Javascript, React, Node, SASS e SQL!!  <br/><br/>
+                Sou Engenheiro da Computação e <br/>
+                realizei diversos cursos de programação <br/>
+                e aprendi diversas tecnologias, como:  <br/>
+                Javascript, React.js, Next.js, Node.js, SASS, SQL, noSQL, etc...  <br/><br/>
                 Estou em busca de oportunidade para por em prática <br/>
                 todo o conhecimento adquirido e me desenvolver profissionalmente. <br/>
             </p>
