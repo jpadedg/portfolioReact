@@ -34,7 +34,6 @@ function Projects() {
             repo="https://github.com/jpadedg/web-wefashion"
             site="https://wefashion.vercel.app"
                 />
-
             <Card 
             img={filmes}
             title="Um Movie List de filmes alimentado por uma API usando React."
@@ -45,7 +44,6 @@ function Projects() {
             repo="https://github.com/jpadedg/Movies"
             site="https://movies-flame.vercel.app"
                 />
-            
             <Card 
             img={tarefas}
             title="Organizador de tarefas usando React."
@@ -55,7 +53,6 @@ function Projects() {
             repo="https://github.com/jpadedg/gerenciadorTarefas"
             site="https://gerenciador-tarefas-lilac.vercel.app"
                 />
-            
             <Card 
             img={portfolio}
             title="Portfolio utilizando React."
@@ -64,7 +61,6 @@ function Projects() {
             repo="https://github.com/jpadedg/portfolioReact"
             site="https://portfolio-react-navy-xi.vercel.app"
                 />
-
             <Card 
             img={ldccpx}
             title="landing Page para CCXP."
@@ -73,7 +69,6 @@ function Projects() {
             repo="https://github.com/jpadedg/landingPage-ccxp"
             site="https://landingpage-ccxp.vercel.app"
                 />
-            
             <Card
              img={arquitetura}
              title="landing Page para o ramo de arquitetura."
@@ -82,7 +77,6 @@ function Projects() {
              repo="https://github.com/jpadedg/landingPage_arquitetura"
              site="https://landingpage-arquitetura.netlify.app"
                 />
-
             <Card 
             img={buscador}
             title="Buscador de paises usando API."
